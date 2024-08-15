@@ -3,8 +3,8 @@
  <h3>I'm a frontend developer </h3>
 </div>
 
-<div>
-<a href="#" tagtet="_blank"><img src="" alt="linkedin" />https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+<div  align="center">
+<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://t.me/thelastsurgeon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <a href="Jafrix.github.io"><img src="https://img.shields.io/badge/website-840010?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/></a>
 </div>
