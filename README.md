@@ -19,5 +19,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: I worked as a Doctor..
+- 🌱 I’m always learning ..!
+- ⚡ Fun fact: I worked as a Doctor.. really
