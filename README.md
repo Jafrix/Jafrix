@@ -20,4 +20,4 @@
 - 😄 Pronouns: ... -->
 
 - 🌱 I’m always learning ..!
-- ⚡ Fun fact: I worked as a Doctor.. really
+- ⚡ Fun fact: I worked as a Doctor... really
